@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Emily Muñoz! 👋
 
-<!--
-**emily-m31/emily-m31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Software Development Student | B2 English Level | Future ADSO Technologist
 
-Here are some ideas to get you started:
+I am a passionate **Software Analysis and Development** student (5th semester) at SENA, Bogotá. I focus on building efficient solutions through clean code and solid architectural foundations. Currently, I am expanding my skills in the Java ecosystem and modern web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📝 About Me
+* 🔭 **Focus:** Object-Oriented Programming (OOP), database design, and agile methodologies.
+* 🎓 **Education:** Currently finishing my Technologist degree in Software Analysis and Development (ADSO).
+* 🚀 **Goal:** Seeking my first professional internship to apply my technical knowledge in a real-world environment.
+* 💬 **Languages:** Spanish (Native) | **English (B2 - Upper Intermediate)**.
+
+---
+
+### 🛠️ Technical Toolbox
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Programming** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+| **Backend & DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=flat) |
+| **Tools & Others** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-0282C2?style=flat&logo=scrumalliance&logoColor=white) ![UML](https://img.shields.io/badge/UML-blue?style=flat) |
+
+---
+
+### 🎓 Education & Certifications
+* **Technologist in Software Analysis and Development** - SENA (In Progress - 5th Semester).
+* **Systems technician** - SENA 
+* **JavaScript Essentials 1** - Cisco Networking Academy.
+* **CSS Essentials** - Cisco Networking Academy.
+* **HTML Essentials** - Cisco Networking Academy.
+
+---
+
+### 📊 GitHub Stats
+![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
+
+---
+
+### 📫 Contact!
+- **Email:** emilymuñoz097@gmail.com
+- **Location:** Bogotá, Colombia 📍
