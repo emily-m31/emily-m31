@@ -2,6 +2,7 @@
 <p align="center">
   <img src="EMILYM.png" alt="Emily Muñoz Banner" width="100%">
 </p>
+
 ### 👩‍💻 Software Development Student | B2 English Level | Future ADSO Technologist
 
 "I am a Software Analysis and Development student (5th semester) currently expanding my technical foundations in the Java ecosystem and web technologies. I define myself as a patient and empathetic professional, which allows me to understand user needs and collaborate effectively through assertive communication. 
