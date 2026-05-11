@@ -1,6 +1,6 @@
 # Hi, I'm Emily Muñoz! 👋
 <p align="center">
-  <img src="CURRICULO.png" alt="Emily Muñoz Banner" width="100%">
+  <img src="EMILYM.png" alt="Emily Muñoz Banner" width="100%">
 </p>
 ### 👩‍💻 Software Development Student | B2 English Level | Future ADSO Technologist
 
