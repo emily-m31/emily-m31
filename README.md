@@ -2,7 +2,9 @@
 
 ### 👩‍💻 Software Development Student | B2 English Level | Future ADSO Technologist
 
-I am a passionate **Software Analysis and Development** student (5th semester) at SENA, Bogotá. I focus on building efficient solutions through clean code and solid architectural foundations. Currently, I am expanding my skills in the Java ecosystem and modern web development.
+"I am a Software Analysis and Development student (5th semester) currently expanding my technical foundations in the Java ecosystem and web technologies. I define myself as a patient and empathetic professional, which allows me to understand user needs and collaborate effectively through assertive communication. 
+
+My greatest strength is my persistence; I am highly resilient when facing technical challenges or learning new complex concepts, always maintaining a focus on continuous improvement and giving my absolute best to grow as a developer. With a B2 English level and a strong problem-solving mindset, I am eager to secure a professional internship where I can contribute my values and continue strengthening my technical skills."
 
 ---
 
