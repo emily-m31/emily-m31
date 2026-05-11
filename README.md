@@ -34,12 +34,6 @@ I am a passionate **Software Analysis and Development** student (5th semester) a
 
 ---
 
-### 📊 GitHub Stats
-![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical)
-
----
-
-### 📫 Contact!
-- **Email:** emilymuñoz097@gmail.com
+### 📫 Contact with me !
+- **Email:** emilymunoz097@gmail.com
 - **Location:** Bogotá, Colombia 📍
